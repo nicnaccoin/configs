@@ -1,33 +1,32 @@
 ## Introduction
 
-This repository is containing configuration files for active Forknote networks.
+This repository is containing configuration file for NicNacCoin network compatible using Forknote 3rd party CLI wallets.
 
 
 ## How to start
 
-The easiest way to start a Forknote network is to see the configuration file of already existing coin and modify it.
+The easiest way to use this configuration file to start a node using Forknote wallet is to 1st download your systems wallet and extract the file from http://forknote.net/download
 
-You can also start from scratch and create a new configuration file by using a simple text editor or by using our [configuration wizard](http://forknote.net/create/#/).
-
-
-## Parameters
-
-Full list of the available configuration options can be found here - [Forknote configuration options](http://forknote.net/documentation/daemon/#blockchain-options)
+You can visit https://www.youtube.com/watch?v=rWIYSOpe6AY to view an instructional video on wallet setup.
 
 
-## Common mistakes
+## How to transfer coins
 
-* **All network clients must have the same configuration file**
-* You need at least 2 seed nodes
-* 127.0.0.1 cannot be a seed node
-* Use CRYPTONOTE_NAME with lower case chars only
+You can visit (https://www.youtube.com/watch?v=rC5uTXxy71E) to view an instructional video on transfering NNC coins.
 
 
-## Tools
+## Wallet import using private keys
 
-* [Create forknote configuration](http://forknote.net/create/#/)
+You can visit (https://www.youtube.com/watch?v=pLC7c0B1LhM) to view an instructional video on using key import feature.
 
 
-## Share
+## The mining process
 
-To share your configuration make a pull request to https://github.com/forknote/configs or email it to support@forknote.net
+* Pool mining NNC - You can visit (https://www.youtube.com/watch?v=SgcfT9BlL0c) to view an instructional video on pool mining NNC
+via the official pool (http://nnc.mypool.online)
+
+
+## Explorer
+
+(http://nnc.mypool.online/?hash#blockchain_blocks)
+Or you the onboard daemon explorer. You can visit (https://www.youtube.com/watch?v=GqFZRKacXnk) to view an instructional video.
