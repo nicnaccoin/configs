@@ -28,5 +28,5 @@ via the official pool (http://nnc.mypool.online)
 
 ## Explorer
 
-(http://nnc.mypool.online/?hash#blockchain_blocks)
+(https://explorer.nnc.mypool.online/)
 Or you the onboard daemon explorer. You can visit (https://www.youtube.com/watch?v=GqFZRKacXnk) to view an instructional video.
